@@ -1,0 +1,93 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+}
+.jumbotron{
+	background-color: #f2f2f2;
+	font-family: monospace;
+}
+.card{
+	width: 60%;
+	background-color: #fff;
+	padding:5% 5% 10% 5%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius:15px;
+	border: none;
+	box-shadow: 0 0 17px 0 #b3b3b3;
+}
+h2{
+	font-size: 26px;
+	font-weight: 100;
+	letter-spacing:2px;
+	color:#ff6666;
+	padding-bottom: 30px;
+}
+small{
+	
+	font-family:pacifico;
+	font-size:17px;
+	color: #ff8080;
+}
+table{
+	width:75%;
+	height: 65%;
+}
+th{
+	letter-spacing:;
+	font-weight:300;
+	font-size: 11px;
+	color:maroon;
+	line-height:10px;
+}
+td{
+	font-family:pacifico;
+	color: #660000;
+	font-size: 11px;
+}
+.norm{
+	font-weight:lighter;
+	color: #e6e6e6;
+}
+a{
+	color:#800000;
+	text-decoration:none; 
+}
+.time{
+	font-size: 26px;
+	color: #ff8080;
+	margin-top: 30%;
+	font-weight: 100;
+	font-family:pacifico; 
+}
+b{
+	font-weight: 800;
+	text-decoration: underline;
+	text-decoration-color: #ff8080;
+	color: maroon;
+}
+.bird{
+	max-width: 80%;
+	margin-top: 30%;
+}
+.deg{
+	margin-top: 10%;
+	font-size: 20px;
+	color: #ff8080;
+	float: right;
+}
+.dash{
+	width: 25%;
+	height: 1px;
+	font-size: 26px;
+	font-family: monospace;
+
+}
+.celc{
+	font-size: 26px;
+	font-weight: 100;
+}
+sup{
+	font-size:18px;
+}
+	
